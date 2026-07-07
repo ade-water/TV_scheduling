@@ -65,10 +65,8 @@ The model optimizes the TV channel’s schedule and advertising over the first w
 
 The executive board seeks recommendations to enhance the optimization strategy, focusing on aspects such as optimal pricing for advert slots, competitor scheduling tactics, minimum revenue thresholds, demographic trends, content strategies, and more.
 
-### Authors
-- Adeyinka Badmus
-- David Krame Kadurha
-- Hariaksh Pandya
-- Rónán Sweeney McCarron
+### Author
+
+- Abdulrahman Adeyinka Badmus
 
 ---

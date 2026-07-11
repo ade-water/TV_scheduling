@@ -1,6 +1,5 @@
 # Optimisation Model for Strategic Planning in the TV Sector
 
-## Mathematical, Modelling and Consulting Skills – MSc Operational Research 2024/2025
 
 ### 0. Project Files
 
@@ -9,7 +8,7 @@ This project contains several Jupyter notebooks :
 - **FirstWeek_only_Extraction**: Extracts the first week of data.
 - **Vanilla_Model_1**: The optimization model implemented in Xpress-Python.
 
-Additionally, there is a folder named **Data** containing all the relevant datasets.
+Additionally, there is a folder named **data** containing all the relevant datasets.
 
 ### 1. Introduction
 
